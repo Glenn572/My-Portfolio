@@ -10,14 +10,14 @@ const SocialLinks = () => {
             child:(
 <>Linkedin <FaLinkedin size={30} /></>
             ),
-            href:"https://in.linkedin.com/"
+            href:"linkedin.com/in/ghani-v-7840aa25b"
         },
         {
             id:2,
             child:(
 <>Github <FaGithub size={30} /></>
             ),
-            href:"https://github.com//"
+            href:"https://github.com/Glenn572"
         },
         {
             id:3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
             child:(
 <>Resume<BsFillPersonFill  size={30} /></>
             ),
-            href:"../images/resume.docx",
+            href:"../images/Ghani_Resume_Full_Stack_Developer.docx",
             download:true
         }
     ]

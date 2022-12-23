@@ -30,10 +30,10 @@ const Navbar = () => {
 
     ]
   return (
-    <div className='flex justify-between items-center fixed w-full h-20 text-white bg-gradient-to-r from-indigo-500 to-cyan-100 z-20 '>
+    <div className='flex justify-between items-center fixed w-full h-16 text-white bg-gradient-to-r from-blue-500 to-blue-500 z-20 '>
        <div className='logo flex justify-center items-center'>
         <img className="w-10 h-10  text-gray-800"src={logo} alt="" />
-        <Link to ="home"  smooth duration={500}><span className='text-gray-800 font-bold ml-2 text-xl cursor-pointer'>
+        <Link to ="home"  smooth duration={500}><span className='text-white font-bold ml-2 text-xl cursor-pointer'>
             Ghani V</span></Link>
         
         </div> 
@@ -41,7 +41,7 @@ const Navbar = () => {
 
                 {
                     links.map(({id,link})=>(
-                        <li key={id} className='cursor-pointer px-4 font-medium text-gray-600 hover:text-gray-400 duration-200 capitalize '>
+                        <li key={id} className='cursor-pointer px-4 font-medium text-white hover:text-gray-400 duration-200 capitalize '>
                             <Link to={link} smooth duration={500}>{link}</Link>
                         </li>
                     ))
