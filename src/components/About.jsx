@@ -8,17 +8,18 @@ const About = () => {
             About Me</p>
        
        <div>
-        <p className>Cyber Security Analyst with 2 years of experience. Looking to start the career as an full stack web developer with a reputed firm driven by technology. Proficient in <b>REACTJS,NODEJS,EXPRESSJS</b>  and <b>MONGODB</b>. Passionate about implementing and creating new projects with new technologies. </p>
+        <p className>Mern Full Stack Developer with 1 year of experience in designing and implementing technical solutions and feature improvements for different projects by using NodeJs and React. Adept at end-to-end software design & development including requirement gathering, documentation, infrastructure setup, coding and unit testing. Passionate about implementing and creating new projects with new technologies. </p>
        </div>
        <div >
          <h2 className="text-3xl font-bold mb-5 mt-5 ">Professional Experience</h2>
-<span className='text-xl font-medium text-center'>HCL TECH | CYBER SECURITY ANALYST</span> <br />
+<span className='text-xl font-medium text-center'>HCL TECH | ENGINEER</span> <br />
 <span className='text-md text-center'>Jan 2021 – Present | Bangalore, Karnataka</span>
 <p className='mt-2 mb-5'>
-<span >•	Worked on the Privilege Access Management team, in removing admin rights from the user machine to mitigate from external threads.</span> <br />
-<span >•	Created and pushed the  policies to block/elevate the applications ,to block malicious attacks and restricts the user access to ensure security.</span> <br />
-<span>•	Involved in deploying the agents in end-user machine and monitoring the events to create new policies and filters.</span> <br />
-<span>•	Worked on QA environment to test policies and filters before implementing in real machines.</span>
+<span >•	I have been in charge of creating full-stack web apps over the past one year utilizing tools like reactjs, nodejs, and the expressjs framework.</span> <br />
+<span >•	REST APIs were successfully built and implemented in full-stack web applications to serve several geographic requests on a worldwide scale.</span> <br />
+<span>•	I have built UI components in ReactJs using react hooks, context API.</span> <br />
+<span>• Implemented automation unit testing using the Jest framework.</span>
+<span>• Worked on the full software development life cycle from gathering requirements to building, testing and maintaining code.</span>
             </p>
        
        </div>
